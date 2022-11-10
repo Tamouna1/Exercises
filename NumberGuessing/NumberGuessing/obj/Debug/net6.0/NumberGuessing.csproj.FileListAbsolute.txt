@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\bin\Debug\net6.0\NumberGuessing.exe
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\bin\Debug\net6.0\NumberGuessing.deps.json
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\bin\Debug\net6.0\NumberGuessing.runtimeconfig.json
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\bin\Debug\net6.0\NumberGuessing.dll
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\bin\Debug\net6.0\NumberGuessing.pdb
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\NumberGuessing.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\NumberGuessing.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\NumberGuessing.dll
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\refint\NumberGuessing.dll
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\NumberGuessing.pdb
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\NumberGuessing.genruntimeconfig.cache
+C:\Users\user\source\repos\Exercises\NumberGuessing\NumberGuessing\obj\Debug\net6.0\ref\NumberGuessing.dll

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConsoleApp1",
+    "\\ConsoleApp1\\ConsoleApp1",
+    "\\ConsoleApp1\\ConsoleApp1\\obj",
+    "\\ConsoleApp1\\ConsoleApp1\\obj\\Debug",
+    "\\ConsoleApp1\\ConsoleApp1\\obj\\Debug\\net6.0\\ref",
+    "\\ConsoleApp1\\ConsoleApp1\\obj\\Release",
+    "\\ConsoleApp1\\ConsoleApp1\\obj\\Release\\net6.0",
+    "\\ConsoleApp1\\ConsoleApp1\\obj\\Release\\net6.0\\ref",
+    "\\ConsoleApp1\\ConsoleApp1\\obj\\Release\\net6.0\\refint"
+  ],
+  "PreviewInSolutionExplorer": false
+}
